@@ -1,0 +1,10 @@
+2022-03--12 21:03:31 [main] INFO  Main -Hi logger
+2022-03--12 21:03:31 [main] DEBUG Main -We've just greeted the user!
+2022-03--12 21:03:31 [main] WARN  Main -We've just greeted the user!
+2022-03--12 21:03:31 [main] ERROR Main -We've just greeted the user!
+2022-03--12 21:03:31 [main] FATAL Main -We've just greeted the user!
+2022-03--12 21:03:31 [main] ERROR User.impl.UserImpl -incorrect login was input
+2022-03--12 21:03:31 [main] ERROR User.impl.UserImpl -password other at all
+2022-03--12 21:12:31 [main] INFO  Main -Hi logger
+2022-03--12 21:12:31 [main] ERROR User.impl.UserImpl -incorrect login was input
+2022-03--12 21:12:31 [main] ERROR User.impl.UserImpl -password other at all
