@@ -1,0 +1,3 @@
+2022-03--13 12:00:55 [main] INFO  Main -Hi logger
+2022-03--13 12:00:55 [main] ERROR User.impl.UserImpl -incorrect login was input
+2022-03--13 12:00:55 [main] ERROR User.impl.UserImpl -password other at all
